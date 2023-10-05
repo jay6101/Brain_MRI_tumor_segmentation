@@ -1,1 +1,1 @@
-# Brain_MRI_tumor_segmentation
+CS736 Course Project: Brain_MRI_tumor_segmentation
